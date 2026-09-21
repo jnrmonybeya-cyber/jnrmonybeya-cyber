@@ -106,8 +106,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jnrmonybeya--cyber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jnrmonybeya-cyber)
-[![Email](https://img.shields.io/badge/Email-jnrmonybeya@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnrmonybeya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-junior-mony-beya?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-mony-beya-30172b438/)
+[![Email](https://img.shields.io/badge/Email-jnrmonybeya@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnrmonybeya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-junior-mony-beya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-mony-beya-30172b438/)
 
 </div>
 
