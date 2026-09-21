@@ -2,7 +2,7 @@
 
 # Bonjour, je suis **MONY-BEYA Ben Mobebi Junior** 👋⚡
 
-### Ingénieur Génie Logiciel · Développeur Full-Stack · République Centrafricaine 🇨🇫
+### etudiant en Ingénierie des travaux en Génie Logiciel · Développeur Full-Stack · République Centrafricaine 🇨🇫
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Ingénieur+Génie+Logiciel;Développeur+PHP+%2F+MySQL+%2F+JavaScript;Créateur+du+site+officiel+ENERCA+2.0;Passionné+par+l'architecture+web+sécurisée)](https://git.io/typing-svg)
 
@@ -12,8 +12,8 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 **Ingénieur en Génie Logiciel** — spécialisé développement web full-stack
-- 🌍 Originaire de **Bangui, République Centrafricaine** 🇨🇫
+- 🎓 **etudiant en Ingénierie des travaux en Génie Logiciel** — spécialisé développement web full-stack
+- 🌍 Originaire de **Bangui, République Centrafricaine** 🇨🇫 etudiant au burkinafaso
 - ⚡ Auteur du **site web officiel de l'ENERCA** (Énergie Centrafricaine) — plateforme institutionnelle PHP 8 / MySQL
 - 🔐 Passionné par la **sécurité applicative** : CSRF, PDO, sessions sécurisées, rate-limiting
 - 🗺️ Intérêt pour la **cartographie web** (Leaflet / OpenStreetMap) et la **dataviz** (Chart.js)
@@ -79,7 +79,7 @@
 | Période | Rôle | Structure |
 |---------|------|-----------|
 | 2026 | 💻 **Développeur Full-Stack** | ENERCA — Énergie Centrafricaine (projet freelance) |
-| En cours | 🎓 **Ingénieur Génie Logiciel** | Formation initiale — République Centrafricaine |
+| En cours | 🎓 **etudiant en Ingénierie des travaux en Génie Logiciel** |Licence 3 — Burkina faso |
 
 ---
 
@@ -106,8 +106,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jnrmonybeya--cyber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jnrmonybeya-cyber)
-[![Email](https://img.shields.io/badge/Email-votre%40email.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![Email](https://img.shields.io/badge/Email-votre%40email.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnrmonybeya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-mony-beya-30172b438/)
 
 </div>
 
