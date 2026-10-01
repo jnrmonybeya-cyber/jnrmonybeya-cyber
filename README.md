@@ -4,7 +4,7 @@
 
 ### etudiant en Ingénierie des travaux en Génie Logiciel · Développeur Full-Stack · République Centrafricaine 🇨🇫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Ingénieur+Génie+Logiciel;Développeur+PHP+%2F+MySQL+%2F+JavaScript;Créateur+du+site+officiel+ENERCA+2.0;Passionné+par+l'architecture+web+sécurisée)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Ingénieur+Génie+Logiciel;Développeur+PHP+%2F+MySQL+%2F+JavaScript;Passionné+par+l'architecture+web+sécurisée)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,6 @@
 
 - 🎓 **etudiant en Ingénierie des travaux en Génie Logiciel** — spécialisé développement web full-stack
 - 🌍 Originaire de **Bangui, République Centrafricaine** 🇨🇫 etudiant au burkinafaso
-- ⚡ Auteur du **site web officiel de l'ENERCA** (Énergie Centrafricaine) — plateforme institutionnelle PHP 8 / MySQL
 - 🔐 Passionné par la **sécurité applicative** : CSRF, PDO, sessions sécurisées, rate-limiting
 - 🗺️ Intérêt pour la **cartographie web** (Leaflet / OpenStreetMap) et la **dataviz** (Chart.js)
 - 🎯 Objectif : construire des solutions numériques robustes et durables pour l'Afrique centrale
@@ -36,14 +35,12 @@
 ### Base de données & Serveurs
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Librairies & Outils front-end
 
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 ### Outils & Environnements
 
@@ -57,7 +54,7 @@
 
 ## 🚀 Projets phares
 
-### ⚡ ENERCA 2.0 — Site web officiel de l'Énergie Centrafricaine (2026)
+### ⚡ ENERCA 2.0 — modèle de Site web de l'Énergie Centrafricaine (2026)
 
 > Plateforme institutionnelle complète pour l'entreprise nationale d'électricité de la République Centrafricaine.
 
@@ -78,7 +75,6 @@
 
 | Période | Rôle | Structure |
 |---------|------|-----------|
-| 2026 | 💻 **Développeur Full-Stack** | ENERCA — Énergie Centrafricaine (projet freelance) |
 | En cours | 🎓 **etudiant en Ingénierie des travaux en Génie Logiciel** |Licence 3 — Burkina faso |
 
 ---
